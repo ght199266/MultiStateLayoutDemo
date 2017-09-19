@@ -9,6 +9,10 @@ import com.lly.multistatelayout.MultiStateLayout;
 import com.lly.multistatelayout.anim.FadeScaleViewAnimProvider;
 import com.lly.multistatelayout.anim.TranslationFadeViewAnimProvider;
 
+
+/**
+ * lly
+ */
 public class MainActivity extends AppCompatActivity {
 
 
